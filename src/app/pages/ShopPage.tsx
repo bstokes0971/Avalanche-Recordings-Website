@@ -16,19 +16,19 @@ export function ShopPage() {
       url: "https://homecomingtx.bandcamp.com/album/mixtape",
       title: "Homecoming – Mixtape",
       price: "$9.99",
-      image: "/public/images/013 - homecoming - mixtape - 1600x1600 - 2011.png?auto=format&fit=max&w=600", // replace with real image
+      image: "/images/013 - homecoming - mixtape - 1600x1600 - 2011.png?auto=format&fit=max&w=600", // replace with real image
     },
     {
       url: "https://newbloodtx.bandcamp.com/track/headspin",
       title: "New Blood – Headspin",
       price: "$1.50",
-      image: "/public/images/011 - New Blood - headspin+5.png?auto=format&fit=max&w=600", // replace with real image
+      image: "/images/011 - New Blood - headspin+5.png?auto=format&fit=max&w=600", // replace with real image
     },
     {
       url: "https://versusleviathan.bandcamp.com/album/paragons",
       title: "Versus Leviathan – Paragons",
       price: "$5.99",
-      image: "/public/images/028 - vl-paragons_2011.png?auto=format&fit=max&w=600", // replace with real image
+      image: "/images/028 - vl-paragons_2011.png?auto=format&fit=max&w=600", // replace with real image
     },
   ];
 
