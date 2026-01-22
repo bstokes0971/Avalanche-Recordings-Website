@@ -22,7 +22,7 @@ export function ShopPage() {
       url: "https://newbloodtx.bandcamp.com/track/headspin",
       title: "New Blood – Headspin",
       price: "$1.50",
-      image: "/images/011 - New Blood - headspin+5.png?auto=format&fit=max&w=600", // replace with real image
+      image: "/images/011-headspin-2020.png?auto=format&fit=max&w=600", // replace with real image
     },
     {
       url: "https://versusleviathan.bandcamp.com/album/paragons",

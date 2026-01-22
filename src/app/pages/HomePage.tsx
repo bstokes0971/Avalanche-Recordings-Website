@@ -68,7 +68,7 @@ const albums = [
   },
   {
     id: 12,
-    image: "/images/018-august-2021.jpgg",
+    image: "/images/018-august-2021.jpg",
     artist: "Sage Motel",
     album: "August",
     year: "2021",
