@@ -1,5 +1,5 @@
 import { useState } from "react";
-const backgroundImage = "/public/images/glenn-hansen-Igf_Qsv9Fv8-unsplash-png.png";
+const backgroundImage = "/images/glenn-hansen-Igf_Qsv9Fv8-unsplash-png.png";
 
 export function ContactPage() {
   const [formData, setFormData] = useState({

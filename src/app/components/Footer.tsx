@@ -1,4 +1,4 @@
-const aLogo = "/public/images/ar crop 2-modified.png";
+const aLogo = "/images/ar-crop-2-modified.png";
 
 export function Footer() {
   return (

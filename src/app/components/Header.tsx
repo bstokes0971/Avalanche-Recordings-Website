@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-const logo = "/public/images/logo3_avalanche_recordings.png";
+const logo = "/images/logo3_avalanche_recordings.png";
 import { Mail, Facebook, Instagram, Twitter, Youtube, Twitch } from "lucide-react";
 
 export function Header() {

@@ -96,7 +96,7 @@ const albums = [
     artist: "Homecoming",
     album: "S/T (Self-Titled)",
     year: "2020",
-    link: "https://open.spotify.com/album/56UDDZRrmbrV7Os9PVN9wc",
+    link: "https://homecomingtx.bandcamp.com/album/s-t-self-titled",
   },
   {
     id: 19,
