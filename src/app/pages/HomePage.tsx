@@ -36,7 +36,7 @@ const albums = [
   },
   {
     id: 5,
-    image: "/images/026 - turnover+art - 2021.jpeg",
+    image: "/images/026-turnover-2021.jpeg",
     artist: "Sage Motel",
     album: "Turnover",
     year: "2021",
@@ -68,7 +68,7 @@ const albums = [
   },
   {
     id: 12,
-    image: "/images/018 - Sage+Motel+-+August - 2021.jpg",
+    image: "/images/018-august-2021.jpgg",
     artist: "Sage Motel",
     album: "August",
     year: "2021",
@@ -84,7 +84,7 @@ const albums = [
   },
   {
     id: 14,
-    image: "/images/015 - Sage+Motel+-+Desperate 2020.jpg",
+    image: "/images/015-desperate-2020.jpg",
     artist: "Sage Motel",
     album: "Desperate",
     year: "2020",
@@ -108,7 +108,7 @@ const albums = [
   },
   {
     id: 20,
-    image: "/images/011 - New Blood - headspin+5.png",
+    image: "/images/011-headspin-2020.png",
     artist: "New Blood",
     album: "Headspin",
     year: "2020",
@@ -116,7 +116,7 @@ const albums = [
   },
   {
     id: 21,
-    image: "/images/007 - Not+at+All 2020.png",
+    image: "/images/007-not-at-all-2020.png",
     artist: "New Blood",
     album: "Not At All",
     year: "2020",
