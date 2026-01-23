@@ -1,9 +1,9 @@
 export function VisualsPage() {
   const videos = [
+    "https://www.youtube.com/embed/F83VpJ0z-x4?rel=0&modestbranding=1&controls=1",
     "https://www.youtube.com/embed/GvWWd2hbKFY?rel=0&modestbranding=1&controls=1",
     "https://www.youtube.com/embed/-ckEtR6uJT8?rel=0&modestbranding=1&controls=1",
     "https://www.youtube.com/embed/gsEmXy9KLO8?rel=0&modestbranding=1&controls=1",
-    "https://www.youtube.com/embed/AITz9zR7fUY?rel=0&modestbranding=1&controls=1",
   ];
 
   return (
